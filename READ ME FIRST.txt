@@ -1,0 +1,4 @@
+###########THIS IS CONSIDERED MALWARE###########
+This batch file will create endless folders in the folder you save NeverFolder.bat 
+FOR ENTERTAINMENT AND EDUCATIONAL PURPOSES ONLY.
+RUN ONLY IN A SAFE ENVIROMENT.
